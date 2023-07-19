@@ -11,11 +11,11 @@ Los archivos encontrados en este repositorio son:
 # Resultados principales 
 Encontró que el acceso a internet banda ancha fijo ha estado en aumento en los últimos años, en comparación con el acceso a internet Dial-up el cual presenta una disminución constante desde 2014. 
 
-![Images/lineas.png]()
+![](https://github.com/Diegocal82/DataSciCom/blob/main/Images/lineas.png)
 
 Se crearon gráficos de líneas para cada una de las series analizadas. Se pudo observar una tendencia lineal inversa entre los servicios de internet, lo cual indica que hay una relación inversa entre el uso de banda ancha y el uso de Dial-up. Sin embargo, en el caso del PIB per cápita, no se identificó una tendencia clara. A pesar de ello, se pudo concluir que independientemente de las fluctuaciones en esta medida, el acceso y posiblemente la demanda de servicios de internet continúan aumentando.Esto sugiere que el internet se ha convertido en un servicio básico y necesario para las personas, y que, sin importar sus ingresos, optan por adquirir servicios de internet, principalmente de banda ancha.
 
-![Images/LineasA.png]()
+![](https://github.com/Diegocal82/DataSciCom/blob/main/Images/LineasA.png)
 
 En el gráfico anterior, se muestran los anchos de banda máximos (30 Mbps) y mínimos (512 Kbps) que son ofrecidos comúnmente. En los últimos años, se ha observado un crecimiento en la demanda de anchos de banda superiores a 30 Mbps, lo cual sugiere que los usuarios prefieren un servicio más rápido y eficiente, aun cuando implique un costo ligeramente más elevado (ya que los anchos de banda mayores tienden a ser más costosos). Esta tendencia indica que los usuarios valoran la calidad del servicio y están dispuestos a invertir un poco más para obtener una conexión más rápida y confiable en lugar de optar por una opción más económica pero más lenta.
 
@@ -29,7 +29,7 @@ Se eligeron 3 KPIs que englobaran el fenómeno en estudio:
 
 Estas se implemtaron en un Dashboard usando `R` con el paquete `shiny`.
 
-![Images/DashM.png]()
+![](https://github.com/Diegocal82/DataSciCom/blob/main/Images/DashM.png)
 
 
 
